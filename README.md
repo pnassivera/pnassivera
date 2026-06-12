@@ -1,8 +1,8 @@
 **Hi there! :wave:** 
 
-:student: I am Pierre Nassivera, a PhD student at Laval University in Québec, Canada.  
-:feather: I study a vulnerable bird species, the Bicknell's Thrush (https://www.iucnredlist.org/species/22728467/180783383), and aim to acquire new knowledge on the spatio-temporal dynamics of its habitat, while developing better tools for surveying the species.  
-:mountain_snow: My research interests intersect with ornithology, Arctic, sub-Arctic, and mountain ecology, as well as theoretical ecology, evolution, and conservation.
+:student: I am Pierre Nassivera, a PhD Candidate at Laval University in Québec, Canada.  
+:feather: My PhD research focuses on the Bicknell's Thrush (_Catharus bicknelli_), a Vulnerable songbird that breeds in the high-elevation balsam fir forests of northeastern North America (https://www.iucnredlist.org/species/22728467/180783383). More specifically, I aim to develop a high-resolution habitat model for Bicknell’s Thrush across the Quebec region and apply this model to support conservation planning and decision-making in response to a range of anthropogenic and natural threats.
+:mountain_snow: Beyond my PhD research, my broader interests include both theoretical and applied aspects of ecology, evolution, and conservation of birds inhabiting cold ecosystems, including Arctic, sub-Arctic, boreal, and alpine environments.
 
 <!---
 pnassivera/pnassivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
